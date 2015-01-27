@@ -92,7 +92,7 @@
 			<key>match</key>
 			<string>\b(Enum|RegInit|RegNext|RegReset|RegEnable|ShiftRegister|LFSR16|ValidIO|Valid|DecoupledIO|Decoupled|EnqIO|DeqIO|DecoupledIOC|ArbiterIO|ArbiterCtrl|LockingArbiterLike|LockingRRArbiter|LockingArbiter|RRArbiter|Arbiter|Counter|QueueIO|Queue|AsyncFifo|Pipe|PriorityMux|PriorityEncoderOH|MemRead|MemSeqRead|MemReadWrite|MemWrite)\b</string>
 			<key>name</key>
-			<string>support.type.built-ins.scala</string>
+			<string>support.type.built-ins.chisel</string>
 		</dict>
 	</dict>
 	<key>scopeName</key>
