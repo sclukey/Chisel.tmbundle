@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>fnpyhxrl@yvir.pbz</string>
+	<key>contactName</key>
+	<string>Steven Clukey</string>
+	<key>description</key>
+	<string>&lt;a href="https://chisel.eecs.berkeley.edu"&gt;Chisel&lt;/a&gt; is an open-source hardware construction language built as a domain specific language in Scala.</string>
+	<key>name</key>
+	<string>Chisel</string>
+	<key>uuid</key>
+	<string>5F9FDB6E-956E-4511-BD24-DFBAFB241EA2</string>
+</dict>
+</plist>
